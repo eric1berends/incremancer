@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color:blue; 
+} 
+
+container{
+  max-width: 800px; 
+  border: 1 px solid transparent; 
+  padding: 5px; 
+  background-color: #120202; 
+}
